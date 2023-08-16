@@ -2,7 +2,7 @@
 
 ### Vue-2
 
-[Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/technozavrrr/#/).
+[Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/Technozavrrr/).
 
 
 ### React
