@@ -9,11 +9,17 @@
 
 [ФАКТЫ о КОТАХ (API + Redux)](https://spektra135.github.io/Cat_facts/).
 
+### Js
+
+[Игра "Пары"](https://spektra135.github.io/Game_pairs-of-cards/).
+
 ### Вёрстка
 
 [Вёрстка лендинга "Blanchard — художественная галерея" (частичный функционал vanilla JS + различные js-библиотеки)](https://spektra135.github.io/Blanchard/).
 
 [Вёрстка лендинга "Евклид - проектные системы" (без функционала)](https://spektra135.github.io/Euclid/).
+
+
 
 
 
