@@ -6,6 +6,8 @@
 
 [Вентклин](https://вентклин.рф/).
 
+[Katana tools](https://katanatool.com/).
+
 ### Vue-2
 
 [Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/technozavrrr/).
