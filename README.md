@@ -12,7 +12,7 @@
 
 [Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/technozavrrr/).
 
-[Avia - отрисовка, фильтрация и сортировка списка авиабилетов (на основе mock-файла) (тестовое задание на Vue-2)](https://spektra135.github.io/avia/).
+[Avia - отрисовка, фильтрация и сортировка списка авиабилетов (тестовое задание на основе mock-файла, Vue-2)](https://spektra135.github.io/avia/).
 
 
 ### React
