@@ -10,22 +10,22 @@
 
 ## Pet-проекты и тестовые задания
 
-### Vue-2
+#### Vue-2
 
 [Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/technozavrrr/).
 
 [Avia - отрисовка, фильтрация и сортировка списка авиабилетов (тестовое задание на основе mock-файла, Vue-2)](https://spektra135.github.io/avia/).
 
 
-### React
+#### React
 
 [ФАКТЫ о КОТАХ (API + Redux)](https://spektra135.github.io/Cat_facts/).
 
-### Vanila Js
+#### Vanila Js
 
 [Игра "Пары"](https://spektra135.github.io/Game_pairs-of-cards/).
 
-### Вёрстка
+#### Вёрстка
 
 [Вёрстка лендинга "Blanchard — художественная галерея" (частичный функционал: vanilla JS + различные js-библиотеки)](https://spektra135.github.io/Blanchard/).
 
