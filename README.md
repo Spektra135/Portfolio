@@ -12,11 +12,11 @@
 
 #### Vue-2
 
-[Technozavrrr - интернет-магазин (Vue-2)](https://spektra135.github.io/technozavrrr/).
+[Technozavrrr - интернет-магазин (Vue-2, Swagger)](https://spektra135.github.io/technozavrrr/).
 
 [Avia - отрисовка, фильтрация и сортировка списка авиабилетов (тестовое задание на основе mock-файла, Vue-2)](https://spektra135.github.io/avia/).
 
-[ToDo-list (тестовое задание, Vue-2)](https://spektra135.github.io/ToDo-list).
+[ToDo-list (тестовое задание, Vue-2, localstorage)](https://spektra135.github.io/ToDo-list).
 
 
 #### React
