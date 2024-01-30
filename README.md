@@ -2,13 +2,13 @@
 
 ## Рабочие проекты
 
-[Автор](https://atr.city/).
+[**Автор**](https://atr.city/).
 
-[Мебель Молл](https://v-moll.ru/).
+[**Katana tools**](https://katanatool.com/).
 
-[Вентклин](https://вентклин.рф/).
+[**Мебель Молл**](https://v-moll.ru/).
 
-[Katana tools](https://katanatool.com/).
+[**Вентклин**](https://вентклин.рф/).
 
 ## Pet-проекты и тестовые задания
 
