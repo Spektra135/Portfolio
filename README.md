@@ -30,7 +30,7 @@
 
 #### React
 
-[**ФАКТЫ о КОТАХ (тестовое задание, TypeScript, React, API + Redux)**](https://spektra135.github.io/Cat_facts/). [*Посмотреть поставленную задачу*](https://docs.google.com/document/d/1do4jdY0u2HzuHiCP2qErGbZFC2DsV_G-TA5oxuTyYrc/edit?usp=sharing)
+[**ФАКТЫ о КОТАХ (тестовое задание, React, TypeScript, API + Redux)**](https://spektra135.github.io/Cat_facts/). [*Посмотреть поставленную задачу*](https://docs.google.com/document/d/1do4jdY0u2HzuHiCP2qErGbZFC2DsV_G-TA5oxuTyYrc/edit?usp=sharing)
 
 #### Js
 
