@@ -32,7 +32,7 @@
 
 [ФАКТЫ о КОТАХ (API + Redux)](https://spektra135.github.io/Cat_facts/).
 
-#### Vanila Js
+#### Js
 
 [Игра "Пары"](https://spektra135.github.io/Game_pairs-of-cards/).
 
