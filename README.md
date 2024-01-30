@@ -16,9 +16,9 @@
 
 [Technozavrrr - интернет-магазин (Vue-2, Swagger)](https://spektra135.github.io/technozavrrr/).
 
-[Эмулятор лифта (тестовое задание, Vue-2, localstorage)](https://spektra135.github.io/Elevator-simulation/).
+[Эмулятор лифта (тестовое задание, Vue-2, localstorage)](https://spektra135.github.io/Elevator-simulation/) [Посмотреть поставленную задачу)](https://docs.google.com/document/d/1bfGkDHLNS-jE8oiXu2b74qYwxvMa-4T-PqCL2UFnaf8/edit?usp=sharing).
 
-[Avia - отрисовка, фильтрация и сортировка списка авиабилетов (тестовое задание на основе mock-файла, Vue-2)](https://spektra135.github.io/avia/).
+[Avia - отрисовка, фильтрация и сортировка списка авиабилетов (тестовое задание на основе mock-файла, Vue-2)](https://spektra135.github.io/avia/).[Посмотреть поставленную задачу)](https://docs.google.com/document/d/1K__TaH9ZbIsPGuNrOsGO-rLBrn6reCl3hyVjcyENT7E/edit?usp=sharing)
 
 [ToDo-list (тестовое задание, Vue-2, localstorage)](https://spektra135.github.io/ToDo-list).
 
