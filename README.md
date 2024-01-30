@@ -1,9 +1,8 @@
 # Portfolio
 
 ## Рабочие проекты
-[Katana tools](https://katanatool.com/).
 
-[Автор]([https://atr.city/]).
+[Автор](https://atr.city/).
 
 [Мебель Молл](https://v-moll.ru/).
 
